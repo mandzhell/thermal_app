@@ -1,0 +1,9 @@
+# ============================================================
+#  Requirements – Thermal Motor Diagnostic (Streamlit Cloud)
+# ============================================================
+
+streamlit>=1.35.0
+tensorflow>=2.16.0
+numpy>=1.26.0
+Pillow>=10.4.0
+pandas>=2.2.0
